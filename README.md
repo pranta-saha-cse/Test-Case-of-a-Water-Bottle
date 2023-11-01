@@ -1,2 +1,2 @@
-# Test-Case-of-a-Water-Bottle
+# Test-Case-Water-Bottle
 Object Test Case: Water bottle
